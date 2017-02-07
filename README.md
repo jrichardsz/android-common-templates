@@ -6,6 +6,6 @@ Usefull Templates  of Android Apps
 
 # 001 Test Layout
 
-![](001-TestLayout/home.png?raw=true | width=52)
+![](001-TestLayout/home.png?raw=true | =250x250)
 
 Simple usage of Layout which could be used for games buttons.
