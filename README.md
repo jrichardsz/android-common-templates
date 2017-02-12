@@ -10,7 +10,7 @@ Usefull Templates  of Android Apps
 
 <img src="001-TestLayout/home.png?raw=true" width="150">
 
-# [002 Map Marker](/001-TestLayout)
+# [002 Map Marker](/002-google-map-marker)
 
 > Simple usage of gmap
 
